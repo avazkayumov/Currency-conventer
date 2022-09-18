@@ -14,17 +14,19 @@
 }
 @media(max-width: 375px)  {
     .card {
-        width: 400px;
+        width: 375px;
     }
 
     .container {
         position: relative;
         left: -15px;
+        width: 375px;
     }
 
     .row {
         justify-content: flex-start;
         margin: 0;
+        width: 375px;
     }
 }
 
